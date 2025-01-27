@@ -1,0 +1,1 @@
+alert(`You have won 1. million dollars`);
